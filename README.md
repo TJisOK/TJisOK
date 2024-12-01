@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @TJisOK
-- 👀 I’m interested in ...
-
+TJ CHEN is an industrial designer currently based in London.
 
 <!---
 TJisOK/TJisOK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
